@@ -1,0 +1,16 @@
+{
+  "name": "Animal Restaurant Companion",
+  "short_name": "AR Companion",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f3",
+  "theme_color": "#ffb7c8",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
